@@ -4,12 +4,14 @@ Serviço para cadastro de cliente, produto, e pedido com Spring
 
 == Tecnologias Utilizadas e Dependencias
 
-:Spring_Initializr: https://start.spring.io/
-:Project: Mavem Repository  
-:Spring_Boot: 2.3.1.RELEASE
-:Language: Java - JDK 8
-:Dependencies: Spring Web, MySQL Driver, Spring Data JPA
-:DataBase: Oracle - MySQL 
+:spring_version: current
+:spring_boot_version: 2.2.1.RELEASE
+:Controller: http://docs.spring.io/spring/docs/{spring_version}/javadoc-api/org/springframework/stereotype/Controller.html
+:SpringApplication: http://docs.spring.io/spring-boot/docs/{spring_boot_version}/api/org/springframework/boot/SpringApplication.html
+:toc:
+:icons: font
+:source-highlighter: prettify
+:project_id: gs-accessing-data-mysql
 
 == Inicialização do Projeto no Sistema
 
