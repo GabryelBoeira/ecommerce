@@ -1,7 +1,9 @@
 # Ecomerce
+
 Serviço para cadastro de cliente, produto, e pedido com Spring 
 
 # Tecnologias Utilizadas e Dependencias
+
 :Spring Initializr: https://start.spring.io/
 :Project: Mavem Repository  
 :Spring Boot: 2.3.1.RELEASE
