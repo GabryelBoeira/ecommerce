@@ -4,12 +4,12 @@ Serviço para cadastro de cliente, produto, e pedido com Spring
 
 == Tecnologias Utilizadas e Dependencias
 
-Spring Initializr: https://start.spring.io/
-Project: Mavem Repository  
-Spring_Boot: 2.3.1.RELEASE
-Language: Java - JDK 8
-Dependencies: Spring Web, MySQL Driver, Spring Data JPA
-DataBase: Oracle - MySQL 
+* Spring Initializr: https://start.spring.io/
+* Project: Mavem Repository  
+* Spring_Boot: 2.3.1.RELEASE
+* Language: Java - JDK 8
+* Dependencies: Spring Web, MySQL Driver, Spring Data JPA
+* DataBase: Oracle - MySQL 
 
 == Inicialização do Projeto no Sistema
 
