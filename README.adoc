@@ -9,7 +9,7 @@ Serviço para cadastro de cliente, produto, e pedido com Spring
 * Spring_Boot: 2.3.1.RELEASE
 * Language: Java - JDK 8
 * Dependencies: Spring Web, MySQL Driver, Spring Data JPA
-* DataBase: Oracle - MySQL 
+* DataBase: Oracle - 8.0.20 MySQL Community Server - GPL 
 
 == Inicialização do Projeto no Sistema
 
